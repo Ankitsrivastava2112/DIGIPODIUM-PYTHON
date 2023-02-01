@@ -1,0 +1,5 @@
+name = input('enter name 😊')
+dob = input('enter date of birth 🎂')
+city = input('enter city 🏙️')
+college = input('enter college 🎓')
+print(name,dob,city,college)
