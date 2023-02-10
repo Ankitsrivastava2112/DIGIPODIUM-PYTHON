@@ -1,6 +1,7 @@
 #star
 from turtle import*
 side=8
+speed("fast")
 si=3
 for i in range(side):
     color("blue")
@@ -12,5 +13,4 @@ for i in range(side):
          color("red")
          rt(360/si)
          fd(90)
-
 done()
