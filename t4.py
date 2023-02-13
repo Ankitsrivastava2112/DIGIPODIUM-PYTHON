@@ -12,5 +12,5 @@ for i in range(side):
     for i in range(si):
          color("red")
          rt(360/si)
-         fd(90)
+         fd(100)
 done()
