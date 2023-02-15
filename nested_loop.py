@@ -3,7 +3,7 @@ speed(0)
 pencolor('blue')
 fillcolor('yellow')
 pensize(5)
-side = 4
+side = 5
 for i in range(side):
     fd(150)
     begin_fill()
