@@ -2,7 +2,7 @@
 from turtle import*
 color("red")
 begin_fill()
-pensize(3)
+pensize(5)
 left(50)
 forward(133)
 circle(50,200)
